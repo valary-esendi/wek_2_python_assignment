@@ -18,5 +18,4 @@ The following operations are performed on a list called `my_list`:
 6. **Sort `my_list` in ascending order.**
 7. **Find and print the index of the value 30 in `my_list`.**
 
-## Python Script
 
